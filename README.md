@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jared!<br/> <a href="https://www.linkedin.com/in/jared-coppola/">Aspiring Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Jared! <br/> <a href="https://www.linkedin.com/in/jared-coppola/">Aspiring Cybersecurity Professional</a></h1>
 
 <h2> Cyber Security Portfolio Projects:</h2>
 
