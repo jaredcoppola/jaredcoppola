@@ -1,4 +1,4 @@
-## Hi, I'm Jared! [<a href="https://www.linkedin.com/in/jared-coppola/">Aspiring Cybersecurity Professional</a>](https://www.linkedin.com/in/jared-coppola/)
+## Hi, I'm Jared! Aspiring Cybersecurity Professional
 
 ## Cyber Security Portfolio Projects:
 
@@ -6,6 +6,6 @@
 
 ## 🤳 Connect with me:
 
-[<img align="left" alt="JaredCoppola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JaredCoppola | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/jared-coppola
