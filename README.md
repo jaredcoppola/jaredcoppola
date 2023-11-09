@@ -4,7 +4,8 @@ I am currently working on more cyber security projects to strengthen my skills a
 
 ## Cyber Security Portfolio Projects:
 
-[Practice Network Forensics Investigation](https://github.com/jaredcoppola/Sample-Network-Forensics-Investigation)
+- **Network Forensics Projects**
+  - [Practice Network Forensics Investigation](https://github.com/jaredcoppola/Sample-Network-Forensics-Investigation)
 
 ## 🤳 Connect with me:
 
