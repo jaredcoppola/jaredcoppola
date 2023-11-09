@@ -1,5 +1,7 @@
 ## Hi, I'm Jared! Aspiring Cybersecurity Professional
 
+I am currently working on more cyber security projects to strengthen my skills and further improve my capabilities. My next project will involve creating a simulated SIEM environment using Azure Sentinel.
+
 ## Cyber Security Portfolio Projects:
 
 [Practice Network Forensics Investigation](https://github.com/jaredcoppola/Sample-Network-Forensics-Investigation)
